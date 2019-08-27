@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[pytorch usage]]></title>
+    <url>%2F2019%2F08%2F27%2Fpytorch%20usage%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>deeplearning - pytorch</category>
+      </categories>
+      <tags>
+        <tag>framework</tag>
+        <tag>deeplearning</tag>
+        <tag>pytorch</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[requests usage]]></title>
+    <url>%2F2019%2F08%2F27%2Frequests%20library%20usage%2F</url>
+    <content type="text"><![CDATA[requests usage]]></content>
+      <categories>
+        <category>data - data fetch</category>
+      </categories>
+      <tags>
+        <tag>requests</tag>
+        <tag>http</tag>
+        <tag>data fetch</tag>
+        <tag>auto test</tag>
+      </tags>
+  </entry>
+</search>

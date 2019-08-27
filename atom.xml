@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jiaoran&#39;s blog</title>
+  
+  <subtitle>Stay Hungry, Stay Foolish</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://boblovecode.github.io/"/>
+  <updated>2019-08-27T03:59:18.057Z</updated>
+  <id>https://boblovecode.github.io/</id>
+  
+  <author>
+    <name>jiaoran</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pytorch usage</title>
+    <link href="https://boblovecode.github.io/2019/08/27/pytorch%20usage/"/>
+    <id>https://boblovecode.github.io/2019/08/27/pytorch usage/</id>
+    <published>2019-08-27T03:57:48.000Z</published>
+    <updated>2019-08-27T03:59:18.057Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="deeplearning - pytorch" scheme="https://boblovecode.github.io/categories/deeplearning-pytorch/"/>
+    
+    
+      <category term="framework" scheme="https://boblovecode.github.io/tags/framework/"/>
+    
+      <category term="deeplearning" scheme="https://boblovecode.github.io/tags/deeplearning/"/>
+    
+      <category term="pytorch" scheme="https://boblovecode.github.io/tags/pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>requests usage</title>
+    <link href="https://boblovecode.github.io/2019/08/27/requests%20library%20usage/"/>
+    <id>https://boblovecode.github.io/2019/08/27/requests library usage/</id>
+    <published>2019-08-27T03:19:56.000Z</published>
+    <updated>2019-08-27T04:00:23.383Z</updated>
+    
+    <content type="html"><![CDATA[<p>requests usage</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;requests usage&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="data - data fetch" scheme="https://boblovecode.github.io/categories/data-data-fetch/"/>
+    
+    
+      <category term="requests" scheme="https://boblovecode.github.io/tags/requests/"/>
+    
+      <category term="http" scheme="https://boblovecode.github.io/tags/http/"/>
+    
+      <category term="data fetch" scheme="https://boblovecode.github.io/tags/data-fetch/"/>
+    
+      <category term="auto test" scheme="https://boblovecode.github.io/tags/auto-test/"/>
+    
+  </entry>
+  
+</feed>
